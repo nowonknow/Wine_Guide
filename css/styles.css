@@ -1,0 +1,38 @@
+.whole-body{
+  background-color: #EEEBDD;
+}
+h1 {
+  padding-top: 2%;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+.motivation {
+  padding: 0 15% 0 15%;
+  border: 15px solid #420516;
+}
+
+.description {
+  padding: 0 15% 0 15%;
+  border: 15px solid #7D1935;
+}
+
+.list-goal-feature {
+  padding: 0 10% 0 10%;
+  border: 15px solid #B42B51;
+}
+
+.timeline {
+  border: 15px solid #E63E6D;
+}
+
+.questions {}
+
+.Resources {}
